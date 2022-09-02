@@ -1,0 +1,86 @@
+
+.aaa{ 
+  
+    border:         none;
+    border-left:    1px solid black;
+    height:         7vh;
+    width:          1px;       
+}
+span{
+    font-size:small
+
+}
+
+.box1 {
+    height:30px;
+    width:30px;
+    
+    float:left;
+
+}
+.box2 {
+    height:30px;
+    width:30px;
+    
+    float:left;
+
+  }
+  
+  .box3 {
+    height:30px;
+    width:30px;
+    
+    float:left;
+
+  }
+  .box4 {
+    height:30px;
+    width:30px;
+  
+    float:left;
+  }
+
+
+.box5{
+    height: 50px;
+    width:200px;
+    
+    float:left;
+
+}
+
+.box6{
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+.bu{
+    font-size:small
+}
+.arama{
+    height: 50px;
+    width: 450px;
+    float: left;
+}
+.resim{
+    float: left;
+}
+hr1 {
+    width: 200%;
+    border-style: solid;
+    color: rgb(64, 66, 71);
+    border-width: 2px;
+}
+.test2 {
+    border-radius: 25px;
+  
+    border: 2px solid #73AD21;
+
+    width: 120px;
+  
+    height: 40px; 
+  }
+  .asa{
+    color: rgb(244, 170, 52);
+  }
+  
